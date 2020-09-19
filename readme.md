@@ -1,8 +1,5 @@
-# Especificação da API de Recebimentos PIX
+# Especificação da API de Recebimentos PIX (Repositório mantido para fins históricos)
 
-Esse repositório reune as especificações funcionais em formato OpenAPI 3.0 referentes à API de recebimentos no âmbito do PIX.
+## __Atenção__: O presente repositório está congelado. 
 
-Os aspectos de segurança concernentes a essa API transcendem o escopo desse repositório. Maiores detalhes 
-sobre segurança podem ser encontrados no Manual de Segurança do PIX. 
-
-
+* Acesse o repositório oficial da API Pix por meio do link __[pix-api](https://github.com/bacen/pix-api)__.
