@@ -1,4 +1,4 @@
-# Especificação da API de Recebimentos PIX (Repositório mantido para fins históricos)
+# Repositório Arquivado.
 
 ## __Atenção__: O presente repositório está congelado. 
 
